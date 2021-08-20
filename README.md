@@ -1,4 +1,4 @@
-### Hi there, I'm Md. Owais Ashraf👋
+### Hi there, This is Md. Owais Ashraf👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/samowais_28?color=1DA1F2&logo=twitter&style=for-the-badge)
 
@@ -27,4 +27,4 @@
 
 ### 📺 Stats
 
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais-code&show_icons=true&theme=merko)
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais-code&show_icons=true&theme=dracula)
