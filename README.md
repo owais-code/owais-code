@@ -7,7 +7,7 @@
 - 🌱 I’m currently pursuing B.Tech in Computer Science
 - 👯 I’m looking to collaborate with other coders
 - 🥅 GitHub Target: Contribute more to Open Source projects
-- ⚡ Good at: Java, Python, C and using Jupyter 
+- ⚡ Good at: C++, Python, Java and using Jupyter 
 
 
 <h3 align="left">Connect with me:</h3>
